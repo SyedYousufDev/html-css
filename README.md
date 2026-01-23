@@ -10,8 +10,10 @@ This repository contains a collection of **HTML & CSS mini projects** created to
 - 🌍 Cross-browser compatibility  
 
 ## 🛠️ How to Run
-```bash
+
 1. git clone https://github.com/SMYousufDev/HTML-CSS.git
 2. Navigate to the project directory cd HTML-CSS-Projects
 3. Open the index.html file in your browser to view the project
-                                                                     Made with ❤️ by Syed Muhammad Yousuf
+
+
+                                                         Made with ❤️ by Syed Muhammad Yousuf
