@@ -1,36 +1,17 @@
 # 🌐 HTML & CSS Projects Collection
 
-Welcome to my repository of HTML & CSS projects!  
-This repo contains multiple mini–web projects built to practice and demonstrate front-end development concepts. Each project focuses on clean layouts, responsive design, and modern styling techniques.
+Welcome! 👋  
+This repository contains a collection of **HTML & CSS mini projects** created to practice and showcase front-end development skills. Each project focuses on **responsive layouts**, **clean design**, and **modern styling**.
 
----
+## ✨ Features
+- 📱 Responsive design for all screen sizes  
+- 🧼 Clean and well-structured HTML5 & CSS3  
+- 🎨 Flexbox, Grid, and simple animations  
+- 🌍 Cross-browser compatibility  
 
-## 🚀 Features
-
-- **Fully Responsive Layouts**  
-  All projects are designed to adapt smoothly across mobile, tablet, and desktop screens.
-
-- **Readable & Organized Code**  
-  Written using HTML5 and CSS3 best practices for easier maintenance and scalability.
-
-- **Modern CSS Techniques**  
-  Uses Flexbox, Grid, transitions, and basic animations to create visually engaging interfaces.
-
-- **Cross-Browser Support**  
-  Ensures consistent behavior on all major browsers.
-
----
-
-## 📁 How to Use
-
-Follow these steps to run the projects locally:
-
+## 🛠️ How to Run
 ```bash
-# Clone the repository
-git clone https://github.com/YourUserName/YourRepoName.git
-
-# Go to the project folder
-cd YourRepoName
-
-# Open any project folder and run the index.html file
-
+1. git clone https://github.com/SMYousufDev/HTML-CSS.git
+2. Navigate to the project directory cd HTML-CSS-Projects
+3. Open the index.html file in your browser to view the project
+                                                                     Made with ❤️ by Syed Muhammad Yousuf
