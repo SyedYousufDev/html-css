@@ -16,4 +16,4 @@ This repository contains a collection of **HTML & CSS mini projects** created to
 3. Open the index.html file in your browser to view the project
 
 
-                                                         Made with ❤️ by Syed Muhammad Yousuf
+Made with ❤️ by Syed Muhammad Yousuf
