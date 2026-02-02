@@ -9,6 +9,14 @@ This repository contains a collection of **HTML & CSS mini projects** created to
 - 🎨 Flexbox, Grid, and simple animations  
 - 🌍 Cross-browser compatibility  
 
+## 🌐 My HTML & CSS Projects Links
+
+- 🎵 **Spotify Clone**  
+ https://spotify-clone-eosin-six.vercel.app/
+
+- 📸 **Photography Landing Page**  
+ https://html-css-gamma-gilt.vercel.app/
+
 ## 🛠️ How to Run
 
 1. git clone https://github.com/SMYousufDev/HTML-CSS.git
